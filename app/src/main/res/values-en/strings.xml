@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Digit Sum</string>
+    <string name="result_iterative">Result simple digit sum</string>
+    <string name="result_simple">Result iterative digit sum</string>
+    <string name="submit_button_text">Calculate</string>
+</resources>

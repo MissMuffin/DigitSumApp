@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quersumme</string>
+    <string name="result_iterative">Ergebnis iterative Quersumme</string>
+    <string name="result_simple">Ergebnis einfache Quersumme</string>
+    <string name="submit_button_text">Berechnen</string>
+</resources>

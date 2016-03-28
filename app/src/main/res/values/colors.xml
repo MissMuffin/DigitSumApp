@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5c89c7</color>
+    <color name="colorPrimaryDark">#446694</color>
+    <color name="colorAccent">#f2656d</color>
+    <color name="submitButton">#4c8ff4</color>
+    <color name="white">#ffffff</color>
+    <color name="lightGray">#d4d4d4</color>
+</resources>
